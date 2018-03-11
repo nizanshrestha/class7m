@@ -1,0 +1,33 @@
+nepasunil@gmail.com
+
+SELECT
+FROM
+WHERE
+
+Select:
+Concatenation
+SELECT 'a'+'1'
+
+SELECT 'a+1'
+
+WITH COLUMN NAME
+SELECT 'a'+ '1' AS SEATNUMBER
+SELECT 'a+1' SEATNUMBER
+SELECT SEATNUMBER= 'a'+ '1'
+
+SELECT * ^all columns
+FROM [TableName]^used for database.[Schema] ^ is used for security for file access whereas [dbo] ^is used for all access.[Table Name]^ needed file
+
+to select database type following in query :
+USE [Tablename]
+Go
+
+LIKE is used after WHERE
+
+%
+_
+[]
+^
+
+
+ 
